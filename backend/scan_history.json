@@ -1,0 +1,319 @@
+[
+  {
+    "user": "sujay",
+    "target": "34.120.137.41",
+    "timestamp": "2025-07-07T14:51:53.336097",
+    "geo": {
+      "status": "success",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "MO",
+      "regionName": "Missouri",
+      "city": "Kansas City",
+      "zip": "",
+      "lat": 39.0997,
+      "lon": -94.5785,
+      "timezone": "America/Chicago",
+      "isp": "Google LLC",
+      "org": "Google Cloud",
+      "as": "AS396982 Google LLC",
+      "query": "34.120.137.41"
+    },
+    "results": [
+      {
+        "port": 80,
+        "state": "open",
+        "service": "http"
+      },
+      {
+        "port": 443,
+        "state": "open",
+        "service": "https"
+      }
+    ]
+  },
+  {
+    "user": "sujay",
+    "target": "8.8.8.8",
+    "timestamp": "2025-07-07T14:52:35.730452",
+    "geo": {
+      "status": "success",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "VA",
+      "regionName": "Virginia",
+      "city": "Ashburn",
+      "zip": "20149",
+      "lat": 39.03,
+      "lon": -77.5,
+      "timezone": "America/New_York",
+      "isp": "Google LLC",
+      "org": "Google Public DNS",
+      "as": "AS15169 Google LLC",
+      "query": "8.8.8.8"
+    },
+    "results": [
+      {
+        "port": 53,
+        "state": "open",
+        "service": "domain"
+      },
+      {
+        "port": 443,
+        "state": "open",
+        "service": "https"
+      }
+    ]
+  },
+  {
+    "user": "sujay",
+    "target": "8.8.8.8",
+    "timestamp": "2025-07-07T14:52:44.491873",
+    "geo": {
+      "status": "success",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "VA",
+      "regionName": "Virginia",
+      "city": "Ashburn",
+      "zip": "20149",
+      "lat": 39.03,
+      "lon": -77.5,
+      "timezone": "America/New_York",
+      "isp": "Google LLC",
+      "org": "Google Public DNS",
+      "as": "AS15169 Google LLC",
+      "query": "8.8.8.8"
+    },
+    "results": [
+      {
+        "port": 53,
+        "state": "open",
+        "service": "domain"
+      },
+      {
+        "port": 443,
+        "state": "open",
+        "service": "https"
+      }
+    ]
+  },
+  {
+    "user": "jay",
+    "target": "34.120.137.41",
+    "timestamp": "2025-07-07T14:54:59.808577",
+    "geo": {
+      "status": "success",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "MO",
+      "regionName": "Missouri",
+      "city": "Kansas City",
+      "zip": "",
+      "lat": 39.0997,
+      "lon": -94.5785,
+      "timezone": "America/Chicago",
+      "isp": "Google LLC",
+      "org": "Google Cloud",
+      "as": "AS396982 Google LLC",
+      "query": "34.120.137.41"
+    },
+    "results": [
+      {
+        "port": 80,
+        "state": "open",
+        "service": "http"
+      },
+      {
+        "port": 443,
+        "state": "open",
+        "service": "https"
+      }
+    ]
+  },
+  {
+    "user": "sujay",
+    "target": "5.9.90.156",
+    "timestamp": "2025-07-07T15:11:52.131954",
+    "geo": {
+      "status": "success",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "SN",
+      "regionName": "Saxony",
+      "city": "Falkenstein",
+      "zip": "08223",
+      "lat": 50.4777,
+      "lon": 12.3649,
+      "timezone": "Europe/Berlin",
+      "isp": "Hetzner Online GmbH",
+      "org": "Hetzner",
+      "as": "AS24940 Hetzner Online GmbH",
+      "query": "5.9.90.156"
+    },
+    "results": [
+      {
+        "port": 21,
+        "state": "open",
+        "service": "ftp"
+      },
+      {
+        "port": 22,
+        "state": "open",
+        "service": "ssh"
+      },
+      {
+        "port": 23,
+        "state": "closed",
+        "service": "telnet"
+      },
+      {
+        "port": 25,
+        "state": "open",
+        "service": "smtp"
+      },
+      {
+        "port": 53,
+        "state": "open",
+        "service": "domain"
+      },
+      {
+        "port": 80,
+        "state": "open",
+        "service": "http"
+      },
+      {
+        "port": 110,
+        "state": "open",
+        "service": "pop3"
+      },
+      {
+        "port": 143,
+        "state": "open",
+        "service": "imap"
+      },
+      {
+        "port": 443,
+        "state": "open",
+        "service": "https"
+      },
+      {
+        "port": 465,
+        "state": "open",
+        "service": "smtps"
+      },
+      {
+        "port": 587,
+        "state": "open",
+        "service": "submission"
+      },
+      {
+        "port": 993,
+        "state": "open",
+        "service": "imaps"
+      },
+      {
+        "port": 995,
+        "state": "open",
+        "service": "pop3s"
+      },
+      {
+        "port": 8080,
+        "state": "open",
+        "service": "http-proxy"
+      },
+      {
+        "port": 8443,
+        "state": "closed",
+        "service": "https-alt"
+      }
+    ]
+  },
+  {
+    "user": "sujay",
+    "target": " 5.9.90.156",
+    "timestamp": "2025-07-07T16:05:09.510375",
+    "geo": {
+      "status": "fail",
+      "message": "invalid query",
+      "query": " 5.9.90.156"
+    },
+    "results": [
+      {
+        "port": 21,
+        "state": "open",
+        "service": "ftp"
+      },
+      {
+        "port": 22,
+        "state": "open",
+        "service": "ssh"
+      },
+      {
+        "port": 23,
+        "state": "closed",
+        "service": "telnet"
+      },
+      {
+        "port": 25,
+        "state": "open",
+        "service": "smtp"
+      },
+      {
+        "port": 53,
+        "state": "open",
+        "service": "domain"
+      },
+      {
+        "port": 80,
+        "state": "open",
+        "service": "http"
+      },
+      {
+        "port": 110,
+        "state": "open",
+        "service": "pop3"
+      },
+      {
+        "port": 143,
+        "state": "open",
+        "service": "imap"
+      },
+      {
+        "port": 443,
+        "state": "open",
+        "service": "https"
+      },
+      {
+        "port": 465,
+        "state": "open",
+        "service": "smtps"
+      },
+      {
+        "port": 587,
+        "state": "open",
+        "service": "submission"
+      },
+      {
+        "port": 993,
+        "state": "open",
+        "service": "imaps"
+      },
+      {
+        "port": 995,
+        "state": "open",
+        "service": "pop3s"
+      },
+      {
+        "port": 8080,
+        "state": "open",
+        "service": "http-proxy"
+      },
+      {
+        "port": 8443,
+        "state": "closed",
+        "service": "https-alt"
+      }
+    ]
+  }
+]
